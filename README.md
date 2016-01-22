@@ -1,2 +1,6 @@
-# IS3816-ATM-Project
-ATM Project
+
+
+
+IS3816-ATM-Project
+====================================
+ 	A basic ATM.
